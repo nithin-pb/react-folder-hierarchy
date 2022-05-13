@@ -1,0 +1,12 @@
+.NotFound-wrapper{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+
+    span{
+        font-weight: 600;
+        padding: 16px;
+        border-right: 1px solid rgb(126, 126, 126);
+        margin-right: 16px;
+    }
+}

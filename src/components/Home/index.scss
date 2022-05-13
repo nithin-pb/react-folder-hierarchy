@@ -1,0 +1,23 @@
+.HomeComponent-Wrapper{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    max-width: 600px;
+    margin: auto;
+
+    h1{
+        font-size: 48px;
+        margin: 0;
+    }
+
+    p{
+        margin: 0;
+        margin-top: 8px;
+        font-size: 16px;
+    }
+
+    .content{
+        margin-top: 34px;
+        font-weight: 500;
+    }
+}
